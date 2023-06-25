@@ -1,0 +1,52 @@
+.main{
+    background-color: whitesmoke;
+}
+.nav{
+    display: flex;
+    flex-direction:row;
+    background-color: black;
+
+    color: blanchedalmond;
+}
+.items{
+    display:flex;
+    justify-content: space-between;
+    text-align: justify;
+    margin-left: 500px;
+    color: blanchedalmond;
+}
+.head{
+    margin-left: 150px;
+}
+h3{
+    text-align: center; 
+    margin-top: 50px;
+    color: whitesmoke;
+
+}
+img{
+    width: 70%;
+    border-radius: 5%;
+
+}
+p{
+    text-align: center;
+}
+
+
+.dp{
+    text-align: center;
+    background:linear-gradient(45deg,black,red,black);
+    width: 40%;
+    margin: auto;
+    padding: 10px;
+    color: white;
+    border-radius: 50%;
+}
+#footer {
+    color: white;
+    margin-top: 100px;
+    background-color: rgb(31, 11, 11);
+    text-align: center;
+    padding: 50px;
+}
